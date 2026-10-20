@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "simpledb",
+  "versions": [
+    {
+      "commit": "bf674ccf8bdc45a7cf4e850985a18199accbe770",
+      "parsed_at": "2026-10-20T20:43:03.443713+00:00",
+      "filetree": "filetree/bf674ccf8bdc45a7cf4e850985a18199accbe770.nq.gz",
+      "blobs": [
+        "blob/8b9a8f4ac12f94f7464a35c8f5a187042f6e00ed.nq.gz",
+        "blob/6044959e4a6ed9bbf96add3b9048c283f44ff264.nq.gz",
+        "blob/bb3ec5f0d4c70ef732aa4d399282a5ddb2a008fd.nq.gz",
+        "blob/06d036f67d3acd8160d3dd177d8fde494d2af84b.nq.gz",
+        "blob/a9fb48ac4040e64996421cec59db48f859c717d1.nq.gz",
+        "blob/02d9cb9031a2fc8910dd8818ddfb2a89ec17b4f9.nq.gz",
+        "blob/98524dcc3699b2c89c7e9a3c313999a9afd7e15f.nq.gz",
+        "blob/84c5581796b18b5c1638a0168cec3198f0854f3d.nq.gz",
+        "blob/dead0c87243e108e59a026146e4282ec52c62956.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
