@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/coleifer/simpledb/commit/bf674ccf8bdc45a7cf4e850985a18199accbe770",
       "git:hexsha": "bf674ccf8bdc45a7cf4e850985a18199accbe770",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:45:32.225275+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/simpledb/commit/fde155fcb4ed2b835cd4719e5be462d12584f86b",
